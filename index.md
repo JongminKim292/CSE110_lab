@@ -27,6 +27,18 @@ Visit [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/get
 
 ##### Ordered and unordered lists #####
 
+> What programming languages can I do?
+- C++
+- Java
+- Swift
+- Python
+
+> List from my favorite language to least respectively
+1. Swift
+2. C++
+3. Java
+4. Python
+
 ###### Task list #####
 Task for Lab 1
 - [ ] [Heading](#jongmin-kims-index-page)
