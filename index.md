@@ -3,5 +3,5 @@
 
 **CSE 110**
 
-<img src="IMG_4031.jpg" width="100" height="200">
+<img src="IMG_4031.jpg" width="800" height="450">
 
