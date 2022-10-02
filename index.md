@@ -1,7 +1,7 @@
 # Jongmin Kim's Index Page!
 
 ##### Styling text #####
-**CSE 110**
+**CSE 110**  
 *A16566898*
 
 ###### Picture ######
