@@ -25,7 +25,7 @@ Visit [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/get
 
 ##### Relative links #####
 
-[IMG LINK](IMG_4031.jpg)
+[Go to image file directory in this repo](IMG_4031.jpg)
 
 ##### Ordered and unordered lists #####
 
@@ -43,12 +43,12 @@ Visit [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/get
 
 ###### Task list #####
 Task for Lab 1
-- [ ] [Heading](#jongmin-kims-index-page)
-- [ ] [Styling text](#styling-text)
-- [ ] [Quoting text](#quoting-text)
-- [ ] [Quoting code](#quoting-code)
-- [ ] [External links](#external-links)
-- [ ] [Section links](#section-links)
-- [ ] [Relative links](#relative-links)
-- [ ] [Ordered and unordered lists](#ordered-and-unordered-lists)
-- [ ] [Task lists](#task-list)
+- [x] [Heading](#jongmin-kims-index-page)
+- [x] [Styling text](#styling-text)
+- [x] [Quoting text](#quoting-text)
+- [x] [Quoting code](#quoting-code)
+- [x] [External links](#external-links)
+- [x] [Section links](#section-links)
+- [x] [Relative links](#relative-links)
+- [x] [Ordered and unordered lists](#ordered-and-unordered-lists)
+- [x] [Task lists](#task-list)
