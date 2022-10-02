@@ -19,10 +19,11 @@ print("Hello World!")
 How to write .md file?
 Visit [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-###### Section Links #####
-- 1[Go to Top!](#jongmin-kims-index-page)
-- 2[Styling Text!](#styling-text)
-- 3[Picture!](#picture)
-- 4[Quoting Code!](#quoting-code)
-- 5[Quoting Text!](#quoting-text)
-- 6[External Link!](#external-links)
+###### Section Links && Unordered List #####
+- [Jongmin Kim's Index Page!](#jongmin-kims-index-page)
+        - [Styling text](#styling-text)
+          - [Picture](#picture)
+          - [Quoting code](#quoting-code)
+        - [Quoting text](#quoting-text)
+        - [External Links](#external-links)
+          - [Section Links && Unordered List](#section-links--unordered-list)
