@@ -20,9 +20,9 @@ How to write .md file?
 Visit [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ###### Section Links #####
--[Go to Top!](#jongmin-kims-index-page)
--[Styling Text!](#styling-text)
--[Picture!](#picture)
--[Quoting Code!](#quoting-code)
--[Quoting Text!](#quoting-text)
--[External Link!](#external-links)
+- 1[Go to Top!](#jongmin-kims-index-page)
+- 2[Styling Text!](#styling-text)
+- 3[Picture!](#picture)
+- 4[Quoting Code!](#quoting-code)
+- 5[Quoting Text!](#quoting-text)
+- 6[External Link!](#external-links)
